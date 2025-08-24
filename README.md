@@ -6,9 +6,11 @@ I’m passionate about turning raw data into actionable insights and building pr
 
 ## 🔧 Skills & Learning Journey
 
-**Programming & Analytics** : Python, R, SQL, MS Excel, Power BI
-**Libraries & Tools** : NumPy, Pandas, Matplotlib, Seaborn, Power BI, ggplot2
-**Core Areas** : Data Cleaning, EDA, Predictive Modeling, Visualization
+**Programming & Analytics** : Python, R, SQL, MS Excel, Power BI.
+
+**Libraries & Tools** : NumPy, Pandas, Matplotlib, Seaborn, Power BI, ggplot2.
+
+**Core Areas** : Data Cleaning, EDA, Predictive Modeling, Visualization.
 
 ## 🤝 Collaboration & Interests
 Open to collaborating on predictive modeling, exploratory data analysis, and beginner-friendly ML projects
