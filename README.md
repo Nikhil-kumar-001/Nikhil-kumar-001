@@ -1,34 +1,31 @@
-## Hi there 👋
+👋 Hi, I'm Nikhil Kumar
 
-### Hi there, I'm Nikhil Kumar 👋
+🚀 Aspiring Data Analyst | MBA in Data Science (1st Year)
 
-🎓 I’m currently pursuing an MBA in Data Science (1st year)  
-💡 I’m passionate about solving real-world problems using data-driven insights and building end-to-end data science projects.  
+I’m passionate about turning raw data into actionable insights and building projects that solve real-world problems. My focus is on strengthening the foundations of data analytics while actively building my portfolio with practical, beginner-to-intermediate projects.
 
----
+🔧 Skills & Learning Journey
 
-- 🌱 I’m currently learning:  
-  Python, R, Machine Learning, Data Visualization (PowerBI, ggplot2), and SQL fundamentals, MS excel.
+Programming & Analytics: Python, R, SQL, MS Excel
 
-- 👯 I’m looking to collaborate on:  
-  Beginner-to-intermediate level data science projects, especially in predictive modeling or exploratory data analysis.
+Libraries & Tools: NumPy, Pandas, Matplotlib, Seaborn, Power BI, ggplot2
 
-- 🤔 I’m looking for help with:  
-  Improving my understanding of model evaluation techniques and advanced machine learning algorithms.
+Core Areas: Data Cleaning, EDA, Predictive Modeling, Visualization
 
-- 💬 Ask me about:  
-  Statistics, Linear Regression, basic R or Python scripting, and early-career data science learning paths.
+🤝 Collaboration & Interests
 
-- 📫 How to reach me:  
-  [LinkedIn]((linkedin.com/in/nikhil-kumar-604529217/)) | Email: nikhilssikarwar@gmail.com
+Open to collaborating on predictive modeling, exploratory data analysis, and beginner-friendly ML projects
 
-- 😄 Pronouns:  
-  He/Him
+Always curious to explore model evaluation, machine learning algorithms, and business-focused data insights
 
-- ⚡ Fun fact:  
-  I love breaking down complex data concepts into simple visuals — and I’m always up for a good cup of chai ☕!
+📫 Connect With Me
+ [LinkedIn]((linkedin.com/in/nikhil-kumar-604529217/)) 
+ Email: nikhilssikarwar@gmail.com
 
----
+⚡ Fun Fact
 
-🌟 *Always curious. Always learning.*  
-📌 *Actively building my portfolio — stay tuned for upcoming projects!*
+I enjoy simplifying complex data concepts into clear visuals — and nothing powers me better than a good cup of chai ☕.
+
+
+
+
