@@ -18,7 +18,7 @@ Open to collaborating on predictive modeling, exploratory data analysis, and beg
 Always curious to explore model evaluation, machine learning algorithms, and business-focused data insights
 
 📫 Connect With Me  
-[LinkedIn](https://linkedin.com/in/nikhil-kumar-604529217/)  
+linkedIn: [LinkedIn](https://linkedin.com/in/nikhil-kumar-604529217/)  
 Email: nikhilssikarwar@gmail.com  
 
 ## ⚡ Fun Fact
