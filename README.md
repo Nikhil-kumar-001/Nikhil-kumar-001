@@ -1,10 +1,14 @@
 ![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello_World🌍%20)
 
+<div align="center">
+  <img src="https://github.com/AzmSurov/AzmSurov/raw/master/Rainbow.gif" alt="Rainbow GIF" width="100%"/>
+</div>
 
 # 💫 About Me:
 
 👋 Hi, I'm Nikhil!
 Aspiring Data Analyst with a knack for turning raw data into actionable insights using Python, SQL, Power BI, and Excel. I’m passionate about uncovering stories hidden in data and presenting them in ways that drive smarter decisions.  
+
 
 🛠️ My Skill Set
 
@@ -55,5 +59,10 @@ Let’s connect and solve business problems with the power of data! 🚀
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Nikhil-kumar-001&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<div align="center">
+  <img src="https://github.com/AzmSurov/AzmSurov/raw/master/Gradients.png" alt="Gradient Image"/>
+  <img src="https://github.com/AzmSurov/AzmSurov/raw/master/Rainbow.gif" alt="Rainbow GIF" width="100%"/>
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
