@@ -9,6 +9,7 @@
 👋 Hi, I'm Nikhil!
 Aspiring Data Analyst with a knack for turning raw data into actionable insights using Python, SQL, Power BI, and Excel. I’m passionate about uncovering stories hidden in data and presenting them in ways that drive smarter decisions.  
 
+<img src="code.gif" alt="Coding GIF" align="right" width="500" />
 
 🛠️ My Skill Set
 
@@ -16,6 +17,8 @@ Aspiring Data Analyst with a knack for turning raw data into actionable insights
 * SQL: Skilled in writing queries and managing databases to extract meaningful insights.  
 * Power BI & Excel: Creating dynamic business dashboards for impactful storytelling.  
 * Data Analytics: Hands-on experience in Exploratory Data Analysis (EDA), data cleaning, and predictive modeling.
+
+
 
 
 🚀 What I’m Working On
